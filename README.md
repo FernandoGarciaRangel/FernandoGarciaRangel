@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGarciaRangel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGarciaRangel&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=codeSTACKr&hide_border=false" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=FernandoGarciaRangel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&custom_title=Minhas%20Estat%C3%ADsticas" height="200" alt="stats graph"  />
 </div>
 
