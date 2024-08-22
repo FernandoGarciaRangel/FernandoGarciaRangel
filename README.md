@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGarciaRangel&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=codeSTACKr&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoGarciaRangel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&custom_title=Minhas%20Estat%C3%ADsticas" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGarciaRangel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoGarciaRangel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&custom_title=Minhas%20Estat%C3%ADsticas" height="170" alt="stats graph"  />
 </div>
 
 ###
@@ -57,11 +57,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="85" height="45" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/snake.svg" alt="Snake animation" />
 
 ###
