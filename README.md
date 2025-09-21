@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/nandingarcia/" target="_blank">
+  <a href="https://www.instagram.com/fernandogarciarangell/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/fernando_garcia_rangel" target="_blank">
