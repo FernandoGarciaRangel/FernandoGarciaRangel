@@ -1,14 +1,14 @@
-name: Generate snake animation
+name: Generate snake animation and stats cards
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -24,8 +24,29 @@ jobs:
           github_user_name: FernandoGarciaRangel
           outputs: dist/snake.svg?palette=github-dark
 
+      # A instancia publica github-readme-stats.vercel.app foi pausada, entao os
+      # cards sao gerados aqui e publicados junto com a cobrinha. Com
+      # fail_on_error, uma falha da API derruba o job e o branch output mantem os
+      # cards anteriores, em vez de receber o card "Something went wrong".
+      - name: generate stats.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: '{"username":"FernandoGarciaRangel","show_icons":true,"include_all_commits":true,"theme":"codeSTACKr","locale":"pt-br","custom_title":"Minhas estatísticas"}'
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
-      - name: push snake.svg to the output branch
+      - name: generate top-langs.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: '{"username":"FernandoGarciaRangel","layout":"compact","card_width":320,"langs_count":6,"theme":"codeSTACKr","locale":"pt-br"}'
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: push svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

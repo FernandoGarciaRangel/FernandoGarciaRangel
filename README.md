@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGarciaRangel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false" height="175" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoGarciaRangel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&custom_title=Minhas%20estat%C3%ADsticas" height="175" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/top-langs.svg" height="175" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/stats.svg" height="175" alt="stats graph"  />
 </div>
 
 ###
@@ -30,7 +30,7 @@
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java logo"  />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="55" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="55" alt="nodejs logo"  />
 </div>
 
 ###
@@ -38,9 +38,6 @@
 <div align="center">
   <a href="https://www.instagram.com/fernandogarciarangell/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="60" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/fernando_garcia_rangel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="60" alt="discord logo"  />
   </a>
   <a href="mailto:fernandolyon.fg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="60" alt="gmail logo"  />
