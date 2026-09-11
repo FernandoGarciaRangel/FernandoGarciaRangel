@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/top-langs.svg" height="175" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/stats.svg" height="175" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/FernandoGarciaRangel/FernandoGarciaRangel/output/stats.svg" height="165" alt="stats graph"  />
 </div>
 
 ###
