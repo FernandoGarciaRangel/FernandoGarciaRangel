@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Fernando, Desenvolvedor Full-Stack, me especializando na linguagem C#.</h1>
+<h1 align="center">Olá, Desenvolvedor Full-Stack com experiência em C#/.NET e React.</h1>
 
 ###
 
